@@ -1,4 +1,4 @@
-package Exercicios.Basico.Math;
+package ExerciciosW3school.Basico.Math;
 
 /*
 2. Write a Java program to print the sum of two numbers.

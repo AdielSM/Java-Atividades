@@ -1,4 +1,4 @@
-package Exercicios.Basico.Math;
+package ExerciciosW3school.Basico.Math;
 
 /*7. Write a Java program that takes a number as input and prints its multiplication table up to 10.
 Test Data:

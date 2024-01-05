@@ -1,4 +1,4 @@
-package Exercicios.Basico.Others;
+package ExerciciosW3school.Basico.Others;
 
 /*
 8. Write a Java program to display the following pattern.

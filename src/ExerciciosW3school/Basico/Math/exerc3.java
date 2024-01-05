@@ -1,4 +1,4 @@
-package Exercicios.Basico.Math;
+package ExerciciosW3school.Basico.Math;
 
 /*
 3. Write a Java program to divide two int numbers and print them on the screen.

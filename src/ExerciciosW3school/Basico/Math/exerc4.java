@@ -1,4 +1,4 @@
-package Exercicios.Basico.Math;
+package ExerciciosW3school.Basico.Math;
 
 /*
  Write a Java program to print the results of the following operations.
