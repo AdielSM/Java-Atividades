@@ -22,5 +22,7 @@ public class exerc2 {
         double media = (nota1 * NOTA1_PESO + nota2 * NOTA2_PESO) / (NOTA1_PESO + NOTA2_PESO);
 
         System.out.println("A média do aluno é " + media);
+
+        in.close();
     }
 }

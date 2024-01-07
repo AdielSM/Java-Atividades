@@ -21,6 +21,8 @@ public class exerc3 {
         } else {
             System.out.println("Ano não bissexto");
         }
+
+        in.close();
     }
 
     public static boolean eBissexto(long ano){

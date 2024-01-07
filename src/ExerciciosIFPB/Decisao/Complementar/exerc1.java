@@ -26,5 +26,7 @@ public class exerc1 {
             System.out.println("Dia: " + dia);
             System.out.println("Tipo: dia útil.");
         }
+
+        in.close();
     }
 }

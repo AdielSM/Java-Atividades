@@ -21,5 +21,7 @@ public class exerc3 {
         }
 
         System.out.println("O maior número é: " + maior);
+
+        in.close();
     }
 }

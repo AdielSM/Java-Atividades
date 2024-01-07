@@ -22,5 +22,7 @@ public class exerc4 {
 
         duracao = horaFinal - horaInicial;
         System.out.println("O jogo durou " + duracao + " horas");
+
+        in.close();
     }
 }

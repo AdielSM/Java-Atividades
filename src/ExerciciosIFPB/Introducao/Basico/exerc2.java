@@ -13,5 +13,7 @@ public class exerc2 {
         int num = in.nextInt();
 
         System.out.println("O dobro de " + num + " é igual a " + (num * 2));
+
+        in.close();
     }
 }

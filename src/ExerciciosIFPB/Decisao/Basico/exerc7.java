@@ -24,6 +24,7 @@ public class exerc7 {
 
         System.out.println(tipoIMC(imc));
 
+        in.close();
     }
     public static String tipoIMC(double imc){
         if (imc < 18.5){

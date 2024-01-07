@@ -22,5 +22,7 @@ public class exerc5 {
         segundos = valor;
 
         System.out.println(horas + " hora(s), " + minutos + " minuto(s) e " + segundos + " segundo(s)");
+
+        in.close();
     }
 }

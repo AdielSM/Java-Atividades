@@ -41,5 +41,7 @@ public class exerc4 {
         System.out.println("Km p/ litro :" + kmPorLitro);
         System.out.println("Autonomia do veículo: " + autonomia);
         System.out.println("Custo da viagem: " + custoViagem);
+
+        in.close();
     }
 }

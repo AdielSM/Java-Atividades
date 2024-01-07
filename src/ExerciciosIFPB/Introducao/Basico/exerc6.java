@@ -21,6 +21,6 @@ public class exerc6 {
 
         System.out.println("Você possui em dolár o equivalente a R$" + reais);
 
-
+        in.close();
     }
 }

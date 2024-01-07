@@ -37,5 +37,7 @@ public class exerc6 {
         System.out.println(num1 + " x " + num2 + " = " + mult);
         System.out.println(num1 + " / " + num2 + " = " + div);
         System.out.println(num1 + " mod " + num2 + " = " + mod);
+
+        nums.close();
     }
 }

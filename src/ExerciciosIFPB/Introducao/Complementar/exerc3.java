@@ -21,5 +21,7 @@ public class exerc3 {
 
         System.out.println("Número 1: " + num1);
         System.out.println("Número 2: " + num2);
+
+        in.close();
     }
 }

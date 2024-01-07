@@ -41,5 +41,7 @@ public class exerc6 {
         System.out.println("- " + nota10 + " nota(s) de B$ 10");
         System.out.println("- " + nota5 + " nota(s) de B$ 5");
         System.out.println("- " + nota1 + " nota(s) de B$ 1");
+
+        in.close();
     }
 }

@@ -31,5 +31,7 @@ public class exerc6 {
             default:
                 System.out.println("Não Recomendado");
         }
+
+        in.close();
     }
 }

@@ -20,5 +20,7 @@ public class exerc4 {
         } else {
             System.out.println("Olá, Sra." + nome);
         }
+
+        in.close();
     }
 }

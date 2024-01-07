@@ -27,6 +27,8 @@ public class exerc8 {
                 System.out.println(e.getMessage());
             }
         }
+
+        in.close();
     }
 
     public static double calculadora(double num1, double num2, String operador) throws OperadorInvalido {

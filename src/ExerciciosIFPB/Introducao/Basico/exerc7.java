@@ -16,5 +16,7 @@ public class exerc7 {
         double peso = in.nextDouble();
 
         System.out.println("Valor a pagar: R$" + (peso * PRECO_KG));
+
+        in.close();
     }
 }

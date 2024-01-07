@@ -20,5 +20,7 @@ public class exerc8 {
         double media = (nota1 + nota2 + nota3) / 3;
 
         System.out.println("A média do aluno " + nome + "é " + media);
+
+        in.close();
     }
 }

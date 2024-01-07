@@ -18,5 +18,7 @@ public class exerc5 {
         String sobrenome = in.next();
 
         System.out.println(sobrenome + ", " + nome);
+
+        in.close();
     }
 }

@@ -19,6 +19,7 @@ public class exerc1 {
             System.out.println("O número é ímpar!");
         }
 
+        in.close();
     }
     public static boolean testePar(long num){
         return num % 2 == 0;

@@ -17,5 +17,7 @@ public class exerc3 {
         double num2 = in.nextDouble();
 
         System.out.println("A soma de " + num1 + " + " + num2 + " é " + (num1 + num2));
+
+        in.close();
     }
 }

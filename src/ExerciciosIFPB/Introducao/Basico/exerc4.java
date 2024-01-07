@@ -19,6 +19,8 @@ public class exerc4 {
 
         double area = areaTriangulo(base, altura);
         System.out.println("A área do triângulo é igual a " + area);
+
+        in.close();
     }
 
     public static double areaTriangulo(double base, double altura){

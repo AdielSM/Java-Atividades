@@ -24,5 +24,7 @@ public class exerc2 {
 
         // long maior = Math.max(num1, num2), menor = Math.min(num1, num2);
         System.out.println("Ordem Crescente: " + maior + ", " + menor);
+
+        in.close();
     }
 }

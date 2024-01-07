@@ -23,5 +23,6 @@ public class exerc5 {
 
         System.out.println("Resultado: " + total);
 
+        nums.close();
     }
 }

@@ -27,6 +27,8 @@ public class exerc2 {
         else{
             System.out.println("É um caractere especial.");
         }
+
+        in.close();
     }
     public static boolean isVogal(char caractere){
         char[] vogais = {'a','e','i','o','u'};

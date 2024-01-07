@@ -27,5 +27,6 @@ public class exerc1 {
 
         System.out.println("O salário do vendedor " + nome + " é R$" + salario);
 
+        in.close();
     }
 }

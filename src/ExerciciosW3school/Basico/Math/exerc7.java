@@ -27,5 +27,7 @@ public class exerc7 {
             System.out.println(num + " x " + i + " = " + result);
             i++;
         }
+
+        number.close();
     }
 }

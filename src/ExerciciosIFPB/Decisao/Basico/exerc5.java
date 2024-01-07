@@ -22,5 +22,7 @@ public class exerc5 {
         // double salario = Math.max(comissao, SALARIO_MINIMO);
 
         System.out.println("Salário do vendedor: R$" + salario);
+
+        in.close();
     }
 }
