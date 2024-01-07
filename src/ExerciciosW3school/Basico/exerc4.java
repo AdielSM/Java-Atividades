@@ -1,7 +1,7 @@
-package ExerciciosW3school.Basico.Math;
+package ExerciciosW3school.Basico;
 
 /*
- Write a Java program to print the results of the following operations.
+4. Write a Java program to print the results of the following operations.
 Test Data:
 a. -5 + 8 * 6
 b. (55+9) % 9

@@ -1,4 +1,4 @@
-package ExerciciosW3school.Basico.Math;
+package ExerciciosW3school.Basico;
 import java.util.Scanner;
 /*
 5. Write a Java program that takes two numbers as input and displays the product of two numbers.
