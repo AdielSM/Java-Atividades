@@ -1,5 +1,9 @@
 package ExerciciosIFPB.Decisao.Basico;
 
+/*
+3. Escreva um programa que leia 3 números inteiros, determine e mostre o maior deles.
+ */
+
 import java.util.Scanner;
 
 public class exerc3 {
