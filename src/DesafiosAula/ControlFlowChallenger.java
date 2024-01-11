@@ -28,7 +28,7 @@ Call both methods and display the results of the following:
 a score of 1500, 1000, 500, 100 and 25.
  */
 
-public class Challenge2 {
+public class ControlFlowChallenger {
 
     public static void main(String[] args) {
 
