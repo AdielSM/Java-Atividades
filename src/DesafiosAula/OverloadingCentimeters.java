@@ -10,7 +10,7 @@ create two method with the same name
  */
 
 
-public class OverloadingCmChallenger {
+public class OverloadingCentimeters {
     public static void main(String[] args) {
         System.out.println(convertToCentimeters(6, 0));
         System.out.println(convertToCentimeters(7, 5));

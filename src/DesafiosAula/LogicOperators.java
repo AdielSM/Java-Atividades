@@ -13,7 +13,7 @@ package DesafiosAula;
 * */
 
 
-public class LogicOperatorsChallenger {
+public class LogicOperators {
     public static void main(String[] args) {
 
         double doubleValue1 = 20.00, doubleValue2 = 80.00, total;

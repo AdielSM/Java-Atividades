@@ -9,7 +9,7 @@ create two method with the same name
 - 1 hour = 60 minutes
  */
 
-public class OverloadingTimeChallenger {
+public class OverloadingTime {
 
     public static void main(String[] args) {
         System.out.println(getDurationString(65, 45));
