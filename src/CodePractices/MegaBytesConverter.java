@@ -1,4 +1,4 @@
-package CodePratices;
+package CodePractices;
 
 /*
 Write a method called printMegaBytesAndKiloBytes that has 1 parameter of type int with the name kiloBytes.
@@ -16,7 +16,7 @@ For example, when the parameter kiloBytes is 2500 it needs to print "2500 KB = 2
 If the parameter kiloBytes is less than 0 then print the text "Invalid Value".
  */
 
-public class exerc3 {
+public class MegaBytesConverter {
     public static void main(String[] args) {
         printMegaBytesAndKiloBytes(2500);
         printMegaBytesAndKiloBytes(-1024);

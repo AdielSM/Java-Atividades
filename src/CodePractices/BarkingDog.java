@@ -1,4 +1,4 @@
-package CodePratices;
+package CodePractices;
 
 /*
 We have a dog that likes to bark.  We need to wake up if the dog is barking at night!
@@ -15,7 +15,7 @@ In all other cases return false.
 If the hourOfDay parameter is less than 0 or greater than 23 return false.
  */
 
-public class exerc4 {
+public class BarkingDog {
     public static void main(String[] args) {
         System.out.println(shouldWakeUp(true, 1));
         System.out.println(shouldWakeUp(false, 2));

@@ -1,4 +1,4 @@
-package CodePratices;
+package CodePractices;
 
 /*
 Write a method called checkNumber with an int parameter named number.
@@ -19,7 +19,7 @@ NOTE:  The checkNumber method needs to be defined as public static like we have 
 
  */
 
-public class exerc1 {
+public class PositiveNegativeOrZero {
     public static void main(String[] args) {
         checkNumber(5);
         checkNumber(-5);

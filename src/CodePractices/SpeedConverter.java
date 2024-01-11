@@ -1,4 +1,4 @@
-package CodePratices;
+package CodePractices;
 
 /*
 1. Write a method called toMilesPerHour that has 1 parameter of type double with the name kilometersPerHour.
@@ -17,7 +17,7 @@ YY represents the rounded milesPerHour from the kilometersPerHour parameter.
 If the parameter kilometersPerHour is < 0 then print the text "Invalid Value".
  */
 
-public class exerc2 {
+public class SpeedConverter {
     public static void main(String[] args) {
         printConversion(1.5);
         printConversion(10.25);
