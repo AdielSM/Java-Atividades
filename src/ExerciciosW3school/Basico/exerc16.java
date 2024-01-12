@@ -1,5 +1,9 @@
 package ExerciciosW3school.Basico;
 
+/*
+Write a Java program to print a face.
+ */
+
 public class exerc16 {
     public static void main(String[] args) {
 
