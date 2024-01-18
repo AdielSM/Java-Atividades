@@ -4,7 +4,7 @@ import java.util.InputMismatchException;
 import java.util.Scanner;
 
 /*
-use a endles loop wich:
+use a endless loop which:
     - Prompts the user to enter a number, or any character to exit
     - Validates the input is a number
     - Keeps track of the min and max numbers entered
