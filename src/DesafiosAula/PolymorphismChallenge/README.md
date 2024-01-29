@@ -32,3 +32,5 @@ one field called batterySize of type int.
 one field called cylinders of type int.
 
 Both subclasses have to reimplement the methods present in the base class Car.
+
+Create a class called Main with a main method to test your classes.
