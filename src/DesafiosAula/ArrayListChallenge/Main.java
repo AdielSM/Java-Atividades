@@ -1,8 +1,6 @@
 package DesafiosAula.ArrayListChallenge;
 
-import java.util.ArrayList;
-import java.util.List;
-import java.util.Scanner;
+import java.util.*;
 
 public class Main {
     public static void main(String[] args) {
@@ -71,6 +69,7 @@ public class Main {
                     if(groceryList.isEmpty()){
                         System.out.println("The list is empty");
                     } else {
+                        Collections.sort(groceryList);
                         System.out.println("Your list: ");
                         for (String s : groceryList) {
                             System.out.print(s + " ");
