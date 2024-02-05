@@ -1,0 +1,6 @@
+Adelaide - 1374
+Alice Springs - 2771
+Brisbane - 917
+Darwin - 3972
+Melbourne - 877
+Perth - 3923
