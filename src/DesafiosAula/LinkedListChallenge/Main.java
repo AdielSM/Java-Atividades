@@ -12,9 +12,10 @@ public class Main {
     public static void main(String[] args) {
 
         TownFactory.loadTownsFromFile();
-        townsIterator = TownFactory.getTownsList().listIterator();
+        var towns = TownFactory.getTownsList();
+        townsIterator = towns.listIterator();
 
-        var validOpitions = new ArrayList<String>(List.of("F", "B", "L", "Q"));
+        var validOpitions = new ArrayList<String>(List.of("F", "B", "L", "Q","M"));
 
         while (true){
             displayMenu();
@@ -73,6 +74,9 @@ public class Main {
                 }
                 resetIterator(position);
                 break;
+            case "M":
+                System.out.println("Returning to the menu...");
+                break;
             default:
                 System.out.println("Exiting...");
                 System.exit(0);
@@ -101,6 +105,7 @@ public class Main {
                 (F)orward
                 (B)ackward
                 (L)ist Places
+                (M)enu
                 (Q)uit
                 """);
     }

@@ -71,10 +71,8 @@ public class MobillePhone {
 
     public void printContacts() {
         System.out.println("Contact List");
-        for(int i=0; i<this.myContacts.size(); i++) {
-            System.out.println((i+1) + "." +
-                    this.myContacts.get(i).name() + " -> " +
-                    this.myContacts.get(i).phoneNumber());
+        for (Contact contact : myContacts) {
+            System.out.println(contact.name() + " -> " + contact.phoneNumber());
         }
     }
 }
