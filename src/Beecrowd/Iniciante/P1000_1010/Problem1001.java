@@ -1,4 +1,4 @@
-package Beecrowd.Iniciante;
+package Beecrowd.Iniciante.P1000_1010;
 
 import java.util.Scanner;
 
